@@ -1,0 +1,26 @@
+.mapboxgl-popup {
+  z-index: 10;
+  position: relative;
+}
+
+.spider-leg-container {
+  z-index: 1;
+}
+
+.spider-leg-pin-green {
+  width: 24px;
+  height: 24px;
+  background: #10b981;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  transform: translate(-50%, -50%);
+}
+
+.spider-leg-pin-yellow {
+  width: 24px;
+  height: 24px;
+  background: #f59e0b;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  transform: translate(-50%, -50%);
+}
